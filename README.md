@@ -1,2 +1,2 @@
 # Sales-Forecasting
-This is project about sales pediction how we used Ml to forecast sales on basis of previous data like holidays,consumption,holidays to estimate future sales graph.
+This is project about sales pediction how we used Ml to forecast sales on basis of previous data like holidays,consumption,holidays to estimate future sales.Useful forecasting assesses the number of sales and timing of sales which helps you schedule all aspects of your supply chain, including production, warehousing, and shipping.Accurate sales forecasting can help businesses anticipate future demand, identify potential problems or opportunities, and adjust their strategies accordingly.
